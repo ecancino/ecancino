@@ -11,18 +11,17 @@
 ### Liaison International (2018 - Current)
 
 Software Engineer
+
 Creating front-end flows with a REST API backend using AngularJS, React, RxJS, npm, LESS, ES6, Grunt, Git.
 
 ### Arthur Lawrence (2015 - 2018)
 
 Computer System Analyst / Software Engineer
+
 Work closely with other engineers to remove technical debt and modernize this provider web interface.
 
-  #### Deloitte: 
-  Creating front-end flows with a REST API backend using AngularJS,
-  Angular (6, 7, 8), RxJS, Functional Programming, Node.js, npm, Bash, SASS,
-  ES6, Grunt, Git for the Department of Health and Human Services New
-  Hampshire Electronic Application System.
+#### Deloitte: 
+Creating front-end flows with a REST API backend using AngularJS, Angular (6, 7, 8), RxJS, Functional Programming, Node.js, npm, Bash, SASS, ES6, Grunt, Git for the Department of Health and Human Services New Hampshire Electronic Application System.
 
 ### Globant (2014 - 2015)
 Computer System Analyst / Software Engineer
@@ -50,28 +49,34 @@ Leveraging Adobe AEM to migrate multiple sites and allowing to be easily managed
 
 ### Global Lynx (2013 - 2014)
 Software Engineer
+
 Offline presence training company first web interface for digital content and offline offerings. eLearning platform, backend by PHP Zend Framework​ and other projects & frontend by Angular, deployed in AWS, development in Heroku using Docker.
 
 ### Uakami (2012 - 2013)
 Software Engineer
+
 360 Wordpress blog administration, for the most popular soccer blog in Mexico: http://www.futbolsapiens.com/.
 **Technologies:** PHP, Wordpress
 
 ### Televisa (2012)
 Solaris Administrator
+
 SL8500 robot administration, with a 97% availability. Created multiple tools for easier administration in Perl.
 
 ### Royal Holiday (2011 - 2012)
 Computer System Analyst
+
 Consolidation of traveling network of websites with the Zend Framework, PHP, MySQL and Git.
 
 ### Distrito 01 (2009 - 2011)
 Computer System Analyst
+
 Multiple website creation with different tools, from Zend Framework to Symfony.
 Projects include Banesto, now Santander.
 
 ### Grupo SIM (2007 - 2009)
 Computer System Analyst
+
 Now Buleboo Studio. Multiple website creation with different tools with PHP and jQuery. Backend interfaces with MySQL
 - [http://www.mascuota.com/](http://www.mascuota.com/)
 - [http://www.arteinformado.com/](http://www.arteinformado.com/)
@@ -80,10 +85,12 @@ Now Buleboo Studio. Multiple website creation with different tools with PHP and 
 
 ### D4i (2006 - 2007)
 Computer System Analyst
+
 Worked in several websites from Nginx configuration through MySQL Database Design and Administration, PHP Rest API with Symfony, to jQuery Frontend validations and navigation.
 
 ### Lotojuegos (2005 - 2006)
 Computer System Analyst
+
 Flash applications and game development. Digital lottery tickets with ASP and PHP backend. PHP & Composer Website management.
 
 ### Infologic (2003 - 2005)
