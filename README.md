@@ -8,13 +8,13 @@
 
 ## PROFESSIONAL EXPERIENCE
 
-### Liaison International (2018 - Current)
+### Liaison International (2020 - Current)
 
 Software Engineer
 
 Creating a REST API using NestJS & DynamoDB.
 
-### Liaison International (2018 - Current)
+### Liaison International (2018 - 2020)
 
 Software Engineer
 
