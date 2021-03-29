@@ -8,7 +8,7 @@
 
 ## PROFESSIONAL EXPERIENCE
 
-### Liaison International (2020 - Current)
+### Chewy (2020 - Current)
 
 Software Engineer
 
