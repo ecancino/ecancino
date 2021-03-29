@@ -14,13 +14,13 @@ Software Engineer
 
 Creating a REST API using NestJS & DynamoDB.
 
-### Liaison International (2018 - 2020)
+### Liaison International (2019 - 2020)
 
 Software Engineer
 
 Creating front-end flows with a REST API backend using AngularJS, React, RxJS, npm, LESS, ES6, Grunt, Git.
 
-### Arthur Lawrence (2015 - 2018)
+### Arthur Lawrence (2015 - 2019)
 
 Computer System Analyst / Software Engineer
 
