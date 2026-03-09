@@ -1,6 +1,5 @@
 # EDUARDO CANCINO ZARATE
 
-[Email](mailto:ecancinozarate at gmail.com)
 [LinkedIn](https://www.linkedin.com/in/eduardocancino)
 [GitHub](https://github.com/ecancino)
 
