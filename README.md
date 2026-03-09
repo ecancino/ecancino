@@ -1,10 +1,8 @@
 # EDUARDO CANCINO ZARATE
 
-[Email](mailto:ecancinozarate@gmail.com)
+[Email](mailto:ecancinozarate at gmail.com)
 [LinkedIn](https://www.linkedin.com/in/eduardocancino)
 [GitHub](https://github.com/ecancino)
-
-Mexico (Remote-Ready, CST)
 
 **PROFESSIONAL SUMMARY**
 
